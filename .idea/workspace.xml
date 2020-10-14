@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8defdeed-914e-4c13-ac8e-71a3a7d51510" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hpxUuDkDwfJptOR2lCL8lZJbec" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+  </component>
+  <component name="RunManager" selected="Python.Spammerp2">
+    <configuration name="Spammerp2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Spammerp2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\jsaad\AppData\Local\Microsoft\WindowsApps\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spammerp2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Spammerp2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Spammerp2" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8defdeed-914e-4c13-ac8e-71a3a7d51510" name="Default Changelist" comment="" />
+      <created>1600721853960</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600721853960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="200" y="2" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602660038850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="2" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1602660038850" />
+    <state x="497" y="149" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600722034908">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="497" y="149" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1600722034908" />
+    <state x="526" y="102" key="FileChooserDialogImpl" timestamp="1600722878491">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="526" y="102" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600722878491" />
+    <state width="1364" height="117" key="GridCell.Tab.0.bottom" timestamp="1600722263083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600722263083" />
+    <state width="1364" height="117" key="GridCell.Tab.0.center" timestamp="1600722263083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="117" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600722263083" />
+    <state width="1364" height="117" key="GridCell.Tab.0.left" timestamp="1600722263083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="117" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600722263083" />
+    <state width="1364" height="117" key="GridCell.Tab.0.right" timestamp="1600722263083">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1364" height="117" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600722263083" />
+    <state x="0" y="529" width="1037" height="382" key="dock-window-1" timestamp="1600722263144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="529" width="1037" height="382" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1600722263144" />
+  </component>
+</project>
